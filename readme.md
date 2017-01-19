@@ -5,7 +5,7 @@ This is a fork of the project "PetClinic" (https://github.com/spring-projects/sp
 
 1) Import the project to Eclipse or IntelliJ with Maven
 
-2) Configure th VM option as follow
+2) Configure the VM options as follows
 ```
 -javaagent:rsmt-agent-tracer-shaded.jar
 -Drsmt.logEverything=false
