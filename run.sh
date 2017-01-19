@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar out/spring_petclinic.jar  -javaagent:/Users/yaopan/rsmt/spiral1/agent-tracer/build/libs/rsmt-agent-tracer-shaded.jar -Drsmt.logEverything=false -Drsmt.buildCallGraph=false -Drsmt.buildCallTrace=true -Drsmt.callTraceDepth=10 -Drsmt.printPrefixes=org/springframework/samples/petclinic -Drsmt.ignorePrefixes=java,org/junit,org/eclipse,com/sun,sun -Drsmt.entryPoints="org/springframework/samples/petclinic/owner/OwnerController initCreationForm,processCreationForm,initFindForm,processFindForm,initUpdateOwnerForm,processUpdateOwnerForm,showOwner"

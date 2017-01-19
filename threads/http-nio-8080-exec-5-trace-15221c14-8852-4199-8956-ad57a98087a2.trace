@@ -1,0 +1,58 @@
+traces of depth 1
+method-OpfRD32d+pqrluegI/qoi1un2UWhYN/ZtPNz9pp9UJU= 1
+method-gbRRzXXFVEQiSAW11zk45d71drVFZy6TsoPpSlytI7A= 1
+method-tQR0WXfit5EXUrwdThrsRXi2h57y98kZe2dMG4umHQE= 1
+method-LzOddV+sfjXXWXT3qRrCe4H5kfKNufIeY8OxEA5tkWc= 1
+method-L+NjwoLCN+lfdTVPQNOAS6zOYw5oaY1ZDAb+1l+E+/8= 1
+method-6B6yURd2QYvnZ82qQ59cFeu0xuVqKPAYCxeuss6KkIk= 1
+
+traces of depth 2
+method-tQR0WXfit5EXUrwdThrsRXi2h57y98kZe2dMG4umHQE= method-LzOddV+sfjXXWXT3qRrCe4H5kfKNufIeY8OxEA5tkWc= 1
+method-6B6yURd2QYvnZ82qQ59cFeu0xuVqKPAYCxeuss6KkIk= method-OpfRD32d+pqrluegI/qoi1un2UWhYN/ZtPNz9pp9UJU= 1
+method-GDfke5jMb9JJiSlMbe+VtR2I1sZ01PpAzffs2G7qOFQ= method-gbRRzXXFVEQiSAW11zk45d71drVFZy6TsoPpSlytI7A= 1
+method-gbRRzXXFVEQiSAW11zk45d71drVFZy6TsoPpSlytI7A= method-6B6yURd2QYvnZ82qQ59cFeu0xuVqKPAYCxeuss6KkIk= 1
+method-GDfke5jMb9JJiSlMbe+VtR2I1sZ01PpAzffs2G7qOFQ= method-tQR0WXfit5EXUrwdThrsRXi2h57y98kZe2dMG4umHQE= 1
+method-LzOddV+sfjXXWXT3qRrCe4H5kfKNufIeY8OxEA5tkWc= method-L+NjwoLCN+lfdTVPQNOAS6zOYw5oaY1ZDAb+1l+E+/8= 1
+
+traces of depth 3
+method-gbRRzXXFVEQiSAW11zk45d71drVFZy6TsoPpSlytI7A= method-6B6yURd2QYvnZ82qQ59cFeu0xuVqKPAYCxeuss6KkIk= method-OpfRD32d+pqrluegI/qoi1un2UWhYN/ZtPNz9pp9UJU= 1
+method-GDfke5jMb9JJiSlMbe+VtR2I1sZ01PpAzffs2G7qOFQ= method-tQR0WXfit5EXUrwdThrsRXi2h57y98kZe2dMG4umHQE= method-LzOddV+sfjXXWXT3qRrCe4H5kfKNufIeY8OxEA5tkWc= 1
+method-GDfke5jMb9JJiSlMbe+VtR2I1sZ01PpAzffs2G7qOFQ= method-gbRRzXXFVEQiSAW11zk45d71drVFZy6TsoPpSlytI7A= method-6B6yURd2QYvnZ82qQ59cFeu0xuVqKPAYCxeuss6KkIk= 1
+method-tQR0WXfit5EXUrwdThrsRXi2h57y98kZe2dMG4umHQE= method-LzOddV+sfjXXWXT3qRrCe4H5kfKNufIeY8OxEA5tkWc= method-L+NjwoLCN+lfdTVPQNOAS6zOYw5oaY1ZDAb+1l+E+/8= 1
+
+traces of depth 4
+method-GDfke5jMb9JJiSlMbe+VtR2I1sZ01PpAzffs2G7qOFQ= method-tQR0WXfit5EXUrwdThrsRXi2h57y98kZe2dMG4umHQE= method-LzOddV+sfjXXWXT3qRrCe4H5kfKNufIeY8OxEA5tkWc= method-L+NjwoLCN+lfdTVPQNOAS6zOYw5oaY1ZDAb+1l+E+/8= 1
+method-GDfke5jMb9JJiSlMbe+VtR2I1sZ01PpAzffs2G7qOFQ= method-gbRRzXXFVEQiSAW11zk45d71drVFZy6TsoPpSlytI7A= method-6B6yURd2QYvnZ82qQ59cFeu0xuVqKPAYCxeuss6KkIk= method-OpfRD32d+pqrluegI/qoi1un2UWhYN/ZtPNz9pp9UJU= 1
+
+traces of depth 5
+
+traces of depth 6
+
+traces of depth 7
+
+traces of depth 8
+
+traces of depth 9
+
+traces of depth 10
+
+
+dictionary:
+method-OpfRD32d+pqrluegI/qoi1un2UWhYN/ZtPNz9pp9UJU=: org/springframework/samples/petclinic/model/BaseEntity <init> ()V (belongs to class-fbrPave+af8gfZsdDwY2fh1kJHj3JU0g348Nu4CwC6E=)
+method-tQR0WXfit5EXUrwdThrsRXi2h57y98kZe2dMG4umHQE=: org/springframework/validation/support/BindingAwareModelMap put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object; (belongs to class-axgxmWZtditWRW0h4kz9FIzMwL8aM0YQdrTsQ9w9XlM=)
+method-LzOddV+sfjXXWXT3qRrCe4H5kfKNufIeY8OxEA5tkWc=: org/springframework/validation/support/BindingAwareModelMap put (Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; (belongs to class-axgxmWZtditWRW0h4kz9FIzMwL8aM0YQdrTsQ9w9XlM=)
+method-L+NjwoLCN+lfdTVPQNOAS6zOYw5oaY1ZDAb+1l+E+/8=: org/springframework/validation/support/BindingAwareModelMap removeBindingResultIfNecessary (Ljava/lang/Object;Ljava/lang/Object;)V (belongs to class-axgxmWZtditWRW0h4kz9FIzMwL8aM0YQdrTsQ9w9XlM=)
+method-6B6yURd2QYvnZ82qQ59cFeu0xuVqKPAYCxeuss6KkIk=: org/springframework/samples/petclinic/model/Person <init> ()V (belongs to class-glcnJ0AwlaeyX8Zw8V/MJlRrio1TT9WNCOQhCBmQtBw=)
+method-GDfke5jMb9JJiSlMbe+VtR2I1sZ01PpAzffs2G7qOFQ=: org/springframework/samples/petclinic/owner/OwnerController initFindForm (Ljava/util/Map;)Ljava/lang/String; (belongs to class-E7fwgU9fnHcGngEU3qXeEdqWM+Px95YWl4YXBrMzgTE=)
+method-gbRRzXXFVEQiSAW11zk45d71drVFZy6TsoPpSlytI7A=: org/springframework/samples/petclinic/owner/Owner <init> ()V (belongs to class-0Ax8jX3O/Mj+HzUUNHnrpcjkDYvL8QRXzRFk2y6en48=)
+printing methods called > 50000 times:
+
+printing classes containing a method called > 50000 times:
+	org/springframework/samples/petclinic/model/BaseEntity
+	org/springframework/samples/petclinic/owner/Owner
+	org/springframework/validation/support/BindingAwareModelMap
+	org/springframework/samples/petclinic/model/Person
+
+printing ignore prefixes
+org/springframework/samples/petclinic/model/BaseEntity,org/springframework/samples/petclinic/owner/Owner,org/springframework/validation/support/BindingAwareModelMap,org/springframework/samples/petclinic/model/Person
+
