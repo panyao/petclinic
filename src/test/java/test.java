@@ -8,7 +8,7 @@ public class test {
     public static void main(String[] args){
         List<Integer> array = new ArrayList<>();
         array.add(1);
-        array.s;
+
         System.out.println(array.get(0));
     }
 
