@@ -6,14 +6,10 @@ import java.util.List;
  */
 public class test {
     public static void main(String[] args){
-        List<List<String>> res = numDecodings("1206413");
-        for(List<String> way: res){
-            for(String s: way){
-                System.out.print(s+ " ");
-            }
-            System.out.println("");
-        }
-
+        List<Integer> array = new ArrayList<>();
+        array.add(1);
+        array.s;
+        System.out.println(array.get(0));
     }
 
     public static List<List<String>> numDecodings(String s) {
